@@ -15,7 +15,6 @@ npm install
 npm start - to run applicaton
 npm test - to run tests
 ```
-```
 
 ## Technologies
 
